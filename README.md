@@ -1,3 +1,6 @@
+This is a clone of the CLARIN-PL GitLab repository:
+https://gitlab.clarin-pl.eu/emoteam/offensive-jipm2021
+
 # Offensive, aggressive, and hate speech analysis: from data-centric to human-centered approach
 
 Models:
